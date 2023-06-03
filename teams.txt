@@ -1,0 +1,16 @@
+Gryffindor
+"Katie Bell",65,81,64,63
+"Alicia Spinnet",72,75,64,59
+"Angelina Johnson",93,95,73,77
+"Oliver Wood",90
+"Harry Potter",95
+"Fred Weasley",85,90
+"George Weasley",85,90
+Slytherin
+"Marcus Flint",76,90,75,70
+"Adrian Pucey",50,67,45,69
+"Terence Higgs",56,65,79,50
+"Bletchley",75
+"Draco Malfoy",93
+"Crabbe",65,80
+"Goyle",65,80
